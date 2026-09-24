@@ -26,6 +26,7 @@ Expert in leveraging Business Intelligence platforms and automation to provide c
 ## Current Job
 **Applications Developer**  
 Fleet Readiness Center East
+
 (_August 2023 - present_)
 
 Serves as a key analyst for aircraft and component programs, supporting the sustainment of Qlik applications used daily by MRO-P program personnel and management officials as the main sources of timely and valid information used to evaluate all aspects of the platforms
